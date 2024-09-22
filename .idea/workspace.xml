@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c27b2a8-e980-486e-8b48-468987c5cb88" name="Changes" comment="RThis is my game engine that I am making in JAVA. I had to switch to Windows due to errors with the M3 chip I had in Mac, so I decided to use my MacBook with an Intel chip for dual booting. GLSL seems to use shaders better with Windows. This file will open a swuare using a shader through openGl using JAVA." />
+    <list default="true" id="0c27b2a8-e980-486e-8b48-468987c5cb88" name="Changes" comment="RThis is my game engine that I am making in JAVA. I had to switch to Windows due to errors with the M3 chip I had in Mac, so I decided to use my MacBook with an Intel chip for dual booting. GLSL seems to use shaders better with Windows. This file will open a swuare using a shader through openGl using JAVA.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,6 +31,7 @@
         <option value="Vaughn Scott &lt;eyeoverthink@gmail.com&gt;" />
       </list>
     </option>
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
@@ -42,20 +45,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Gradle.EyeoverthinkGakeEngineWin [:com.eyeooverthink.Main.main()].executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.EyeoverthinkGakeEngineWin [:com.eyeooverthink.Main.main()].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.gitlab.GitLabSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory",
+      "module"
+    ]
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -73,7 +83,7 @@
       <option name="presentableId" value="Default" />
       <updated>1727029630919</updated>
       <workItem from="1727029632001" duration="1040000" />
-      <workItem from="1727030708194" duration="574000" />
+      <workItem from="1727030708194" duration="1337000" />
     </task>
     <task id="LOCAL-00001" summary="RThis is my game engine that I am making in JAVA. I had to switch to Windows due to errors with the M3 chip I had in Mac, so I decided to use my MacBook with an Intel chip for dual booting. GLSL seems to use shaders better with Windows. This file will open a swuare using a shader through openGl using JAVA.">
       <option name="closed" value="true" />
@@ -91,7 +101,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727031272287</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="RThis is my game engine that I am making in JAVA. I had to switch to Windows due to errors with the M3 chip I had in Mac, so I decided to use my MacBook with an Intel chip for dual booting. GLSL seems to use shaders better with Windows. This file will open a swuare using a shader through openGl using JAVA.">
+      <option name="closed" value="true" />
+      <created>1727031305866</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1727031305866</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
